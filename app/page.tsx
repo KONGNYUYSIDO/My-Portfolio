@@ -32,7 +32,7 @@ const skills = [
 
 const experiences = [
   {
-    period: '2023 - Present',
+    period: 'January 2025 - Present',
     title: 'Junior Web Developer',
     company: 'AIALABS',
     description: [
