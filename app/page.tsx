@@ -484,7 +484,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="py-8 border-t border-slate-700/50 bg-slate-900/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-slate-400">
-          <p>&copy; 2024 Kongnyuy Sidonne Vernyuy. All rights reserved.</p>
+          <p>&copy; 2025 Kongnyuy Sidonne Vernyuy. All rights reserved.</p>
         </div>
       </footer>
     </div>
