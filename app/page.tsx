@@ -89,7 +89,7 @@ export default function Portfolio() {
               animate={{ opacity: 1, x: 0 }}
               className="font-bold text-xl"
             >
-              Kongnyuy Sidonne
+              Kongnyuy Sidonne Vernyuy
             </motion.div>
             <div className="hidden md:flex space-x-8">
               {['About', 'Skills', 'Projects', 'Experience', 'Contact'].map((item) => (
