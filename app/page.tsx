@@ -38,7 +38,8 @@ const experiences = [
     description: [
       'Design, develop, and maintain web applications using modern frameworks',
       'Document research findings, development processes, and deliverables for stakeholders',
-      'Collaborated with senior developers to implement responsive and user-friendly interfaces.',
+      'Prepare technical reports, documentation, and presentations for stakeholders.',
+      'Collaborate with UI/UX designers to create user-centered, accessible interfaces.',
     ],
   },
   {
@@ -48,6 +49,8 @@ const experiences = [
     description: [
       'Assisted in development and maintenance of web applications with HTML, CSS, JavaScript, and Next.js',
       'Collaborated with senior developers to implement responsive and user-friendly interfaces',
+      'Improved technical skills in front-end/back-end development',
+      'Collaborated with senior developers to implement responsive and user-friendly interfaces.',
     ],
   },
 ];
