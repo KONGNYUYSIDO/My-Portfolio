@@ -20,14 +20,14 @@ interface GitHubRepo {
 }
 
 const skills = [
-  { name: 'React', level: 95, color: '#61DAFB' },
-  { name: 'Next.js', level: 90, color: '#000000' },
-  { name: 'TypeScript', level: 85, color: '#3178C6' },
-  { name: 'JavaScript', level: 95, color: '#F7DF1E' },
-  { name: 'Node.js', level: 80, color: '#339933' },
-  { name: 'Python', level: 75, color: '#3776AB' },
+  { name: 'React', level: 70, color: '#61DAFB' },
+  { name: 'Next.js', level: 75, color: '#000000' },
+  { name: 'TypeScript', level: 68, color: '#3178C6' },
+  { name: 'JavaScript', level: 80, color: '#F7DF1E' },
+  { name: 'Node.js', level: 90, color: '#339933' },
+  { name: 'Python', level: 50, color: '#3776AB' },
   { name: 'HTML/CSS', level: 95, color: '#E34F26' },
-  { name: 'Tailwind CSS', level: 90, color: '#06B6D4' },
+  { name: 'Tailwind CSS', level: 75, color: '#06B6D4' },
 ];
 
 const experiences = [
@@ -38,6 +38,7 @@ const experiences = [
     description: [
       'Design, develop, and maintain web applications using modern frameworks',
       'Document research findings, development processes, and deliverables for stakeholders',
+      'Collaborated with senior developers to implement responsive and user-friendly interfaces.',
     ],
   },
   {
@@ -121,7 +122,7 @@ export default function Portfolio() {
           >
             <div className="mb-8">
               <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-br from-blue-400 to-purple-500 flex items-center justify-center text-4xl font-bold">
-                KS
+                KSV
               </div>
             </div>
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-6">
